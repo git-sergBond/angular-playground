@@ -1,3 +1,9 @@
+#### how to run project:
+```
+npm run server // start local server with db stored in src/db.json
+npm run start // build and run frontend app
+```
+
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
