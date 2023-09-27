@@ -1,4 +1,5 @@
-#### how to run project:
+# The TODO app example
+## how to run project:
 ```
 npm run server // start local server with db stored in src/db.json
 npm run start // build and run frontend app
