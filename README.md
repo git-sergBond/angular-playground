@@ -1,6 +1,7 @@
 # The TODO app example
 ## how to run project:
 ```
+npm install //install libraries
 npm run server // start local server with db stored in src/db.json
 npm run start // build and run frontend app
 ```
